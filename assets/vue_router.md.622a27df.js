@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.b5ebb995.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/router.md"}'),o={name:"vue/router.md"};function a(s,c,n,p,_,d){return r(),t("div")}const m=e(o,[["render",a]]);export{u as __pageData,m as default};
